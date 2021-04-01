@@ -1,0 +1,10 @@
+{
+  "name": "WoodPiles",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/OhhLoz/WoodPiles",
+  "description": "Adds 2 new wood piles (Core & Fine wood)",
+  "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901",
+        "JotunnLibTeam-JotunnLib-0.1.4"
+    ]
+}
